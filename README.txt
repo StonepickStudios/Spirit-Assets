@@ -1,0 +1,1 @@
+This folder simply holds all the project files required for Spirit as a product.
