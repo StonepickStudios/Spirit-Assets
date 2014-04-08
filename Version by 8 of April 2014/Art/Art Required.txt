@@ -1,0 +1,40 @@
+Art Required
+
+Website:
+Title
+Developer Title
+Developer Logo
+Rewards Emblems
+
+Game:
+Player
+	- Idle Animation
+	- Running Animation
+	- Normal Attack Animation
+	- Jump (+Land) Animation
+	- Shunpo Animation
+	- Grappling Animation
+	- Grappling Hook
+	- Grappling Rope
+	- Wall Jump Animation
+	- Death Animation
+Enemies
+	- Soldier Idle Animation
+	- Soldier Attack Animation
+	- Soldier Run Animation
+	- Soldier Death Animation
+	- Soldier Land Animation
+	- Archer Idle Animation
+	- Archer Attack Animation
+	- Archer Run Animation
+	- Archer Death Animation
+	- Archer Land Animation
+	- Boss Idle Animation
+	- Boss Taunt Animation
+	- Boss Attack Animation
+	- Boss Walk Animation
+	- Boss Death Animation
+Environment
+	- Platform piece, all orientations
+	- Spike(s)
+	- Falling Platform
